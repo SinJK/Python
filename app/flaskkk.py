@@ -3,8 +3,8 @@ import json
 import feedparser
 app = Flask(__name__, template_folder='.')
 RSS_FEEDS = {
-	'1': 'https://www.reddit.com/r/PowerShell.rss',
-	'2': 'http://powershell-scripting.com/index2.php?option=com_joomlaboard&func=sb_rss&no_html=1'
+	'1': 'URL',
+	'2': 'URL'
 }
 
 @app.route('/')
