@@ -1,7 +1,7 @@
 from selenium import webdriver 
 from time import sleep 
 
-usr = "sfrsux"
+usr = ""
 pwd = "****"
 tweet = """
 
